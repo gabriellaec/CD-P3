@@ -1,7 +1,7 @@
 # CD-P3
 -----------------------------------------------------------------
 
-Colaboradores: Alexandre Cury, Gabriela Mitu, Gabriell Cukier
+Colaboradores: Alexandre Cury, Gabriela Mitu, Gabriella Cukier
 
 -----------------------------------------------------------------
 
